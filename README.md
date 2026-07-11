@@ -7,5 +7,4 @@
 | 날짜 | 주제 | 코드 | 정리 |
 |------|------|------|------|
 | 0710 | HTML 기초 | [코드](./0710-html-basics) |[Notion](https://app.notion.com/p/HTML-39ae19c90e338079853bcd724e6015ca?source=copy_link) |
-
 | 0711 | HTML 심화 | [코드](./0711-html) |[Notion](https://app.notion.com/p/HTML-39ae19c90e3380f3945dd848b5c2a41d?source=copy_link) |
