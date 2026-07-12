@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d0b1e3;
+  margin: 0;
+}
+
+header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+footer {
+  font-size: 12px;
+  text-align: center;
+}
+
+#title {
+  color: #2c3e50;
+  text-align: center;
+}
+
+nav a {
+  color: #e766b1;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.fav-table {
+  border: 2px solid #e766b1;
+  padding: 10px;
+}
+
+.highlight {
+  background-color: #fff3cd;
+  padding: 10px;
+  border-radius: 5px;
+}
