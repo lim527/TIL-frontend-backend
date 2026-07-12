@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #f8f9fa;
+  background-color: #f3e5f5;
   padding: 20px;
 }
 
@@ -28,6 +28,12 @@ nav a {
 .fav-table {
   border: 2px solid #e766b1;
   padding: 10px;
+}
+
+.fav-table th,
+.fav-table td {
+  border: 1px solid #e766b1;
+  padding: 8px;
 }
 
 .highlight {
