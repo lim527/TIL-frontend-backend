@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f1f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;         /* 화면 전체 높이만큼 차지 */
+  margin: 0;
+}
+
+.profile-card {
+  background-color: white;
+  border-radius: 16px;
+  padding: 32px;
+  text-align: center;
+  width: 280px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);  /* 은은한 그림자 */
+}
+
+.profile-card:hover {
+     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+.profile-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.bio {
+  color: #666;
+  font-size: 14px;
+}
+
+.tags {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.tag {
+  background-color: #f3e5f5;
+  color: #9c27b0;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.links a {
+  color: #e766b1;
+  text-decoration: none;
+  font-weight: bold;
+}

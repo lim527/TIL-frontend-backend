@@ -10,3 +10,4 @@
 | 0711 | HTML 심화 | [코드](./0711-html) |[Notion](https://app.notion.com/p/HTML-39ae19c90e3380f3945dd848b5c2a41d?source=copy_link) |
 | 0712 | CSS 기초 | [코드](./0713-css-basics) | [Notion](https://app.notion.com/p/css-39ae19c90e3380699bafc4de863fc657?source=copy_link) |
 | 0714 | CSS flexbox | [코드](./0714-css-flexbox) | [Notion](https://app.notion.com/p/css-flexbox-39ae19c90e3380f2ad01f990070a8ef2?source=copy_link) |
+| 0715 | miniproject | [코드](./0715-miniproject-profile) | [Notion](https://app.notion.com/p/39ae19c90e33809dbf38d15a6910e36f?source=copy_link) |
