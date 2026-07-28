@@ -25,3 +25,7 @@
 | 07/27 | 자릿수 더하기 | DigitSum_250727.java | DigitSum_250727.py | 기본 |
 | 07/27 | 예산 | Budget_250727.java | Budget_250727.py | 중간 |
 | 07/27 | 완주하지 못한 선수 | Marathon_250727.java | Marathon_250727.py | 도전 |
+| 07/28 | 자연수 뒤집어 배열로 만들기 | ReverseDigits_250728.java | ReverseDigits_250728.py | 완전기초 |
+| 07/28 | 하샤드 수 | Harshad_250728.java | Harshad_250728.py | 기본 |
+| 07/28 | 두 개 뽑아서 더하기 | PairSum_250728.java | PairSum_250728.py | 중간 |
+| 07/28 | 나머지가 1이 되는 수 찾기 | RemainderOne_250728.java | RemainderOne_250728.py | 도전 |
