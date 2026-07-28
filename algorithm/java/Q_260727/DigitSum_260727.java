@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class DigitSum_250727 {
+public class DigitSum_260727 {
     public int solution(int n) {
         int answer = 0;
         while(n>0){
@@ -17,7 +17,7 @@ public class DigitSum_250727 {
         Scanner s=new Scanner(System.in);
         System.out.print("정수를 입력해주세요: ");
         int num=s.nextInt();
-        DigitSum_250727 sol =new DigitSum_250727();
+        DigitSum_260727 sol =new DigitSum_260727();
         int result = sol.solution(num);
         System.out.println(result);
     }

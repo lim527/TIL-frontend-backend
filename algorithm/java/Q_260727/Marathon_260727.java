@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Marathon_250727 {
+public class Marathon_260727 {
     public String solution(String[] participant, String[] completion) {
         Arrays.sort(participant);
         Arrays.sort(completion);
@@ -21,7 +21,7 @@ public class Marathon_250727 {
         String[] participant = s.nextLine().split(" ");
         System.out.print("완주자 이름을 입력하세요 (공백으로 구분): ");
         String[] completion = s.nextLine().split(" ");
-        Marathon_250727 sol = new Marathon_250727();
+        Marathon_260727 sol = new Marathon_260727();
         String result = sol.solution(participant, completion);
         System.out.println(result);
     }

@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class RemainderOne_250728 {
+public class RemainderOne_260728 {
     public int solution(int n) {
         int answer = 0;
         for (int x = 1; x < n; x++) {
@@ -19,7 +19,7 @@ public class RemainderOne_250728 {
         Scanner s=new Scanner(System.in);
         System.out.print("정수를 입력해주세요: ");
         int num=s.nextInt();
-        RemainderOne_250728 sol =new RemainderOne_250728();
+        RemainderOne_260728 sol =new RemainderOne_260728();
         int result = sol.solution(num);
         System.out.println(result);
     }

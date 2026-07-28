@@ -3,7 +3,7 @@
 // 날짜: 2026-07-27
 import java.util.*;
 
-public class EvenOdd_250727 {
+public class EvenOdd_260727 {
     public String solution(int num) {
         String answer = "Odd";
         if(num%2==0) answer="Even";
@@ -13,7 +13,7 @@ public class EvenOdd_250727 {
         Scanner s=new Scanner(System.in);
         System.out.print("정수를 입력하세요: ");
         int num=s.nextInt();
-        EvenOdd_250727 sol = new EvenOdd_250727();
+        EvenOdd_260727 sol = new EvenOdd_260727();
         String result = sol.solution(num);
         System.out.println(result);
     }

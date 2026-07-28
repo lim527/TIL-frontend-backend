@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Budget_250727 {
+public class Budget_260727 {
     public int solution(int[] d, int budget) {
         int answer = 0;
         Arrays.sort(d);
@@ -28,7 +28,7 @@ public class Budget_250727 {
         }
         System.out.print("예산을 입력해주세요: ");
         int budget = s.nextInt();
-        Budget_250727 sol =new Budget_250727();
+        Budget_260727 sol =new Budget_260727();
         int result = sol.solution(d, budget);
         System.out.println(result);
     }

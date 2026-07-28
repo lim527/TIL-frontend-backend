@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class ReverseDigits_250728 {
+public class ReverseDigits_260728 {
     public int[] solution(long n) {
         ArrayList<Integer> list = new ArrayList<>();
         while (n > 0) {
@@ -24,7 +24,7 @@ public class ReverseDigits_250728 {
         Scanner s=new Scanner(System.in);
         System.out.print("숫자를 입력하세요: ");
         long n = s.nextLong();
-        ReverseDigits_250728 sol = new ReverseDigits_250728();
+        ReverseDigits_260728 sol = new ReverseDigits_260728();
         int[] result = sol.solution(n);
         System.out.println(Arrays.toString(result));
     }
