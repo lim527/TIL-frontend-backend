@@ -1,0 +1,116 @@
+body {
+  font-family: 'Malgun Gothic', Arial, sans-serif;
+  background-color: #f5f1f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;         /* 화면 전체 높이만큼 차지 */
+  margin: 0;
+}
+
+.profile-card {
+  background-color: white;
+  border-radius: 16px;
+  padding: 32px;
+  text-align: center;
+  width: fit-content;  /* 내용에 맞게 카드 크기 조절 */
+  min-width: 280px;     /* 최소 너비 설정 */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);  /* 은은한 그림자 */
+}
+
+.profile-card:hover {
+     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+.profile-card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.bio {
+  color: #666;
+  font-size: 14px;
+}
+
+.tags {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 16px 0;
+  flex-wrap: nowrap;  /* 추가: 태그가 많아져도  한 줄*/
+}
+
+.tag {
+  background-color: #f3e5f5;
+  color: #9c27b0;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  display: flex;              /* 추가: 안의 내용을 flex로 배치 */
+  align-items: center;        /* 추가: 가로 가운데 정렬 */
+  gap: 6px;                   /* 추가: 글씨랑 x버튼 사이 간격 */
+}
+
+.tag-input {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.tag-input input {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.tag button {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: none;
+  background-color: rgba(156, 39, 176, 0.15);
+  color: #9c27b0;
+  font-size: 9px;
+  cursor: pointer;
+  padding: 0;
+  opacity: 0;              /* 평소엔 투명 */
+  transition: opacity 0.2s; /* 부드럽게 나타남 */
+}
+
+.tag:hover button {
+  opacity: 1;               /* 마우스 올리면 나타남 */
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 13px;
+}
+
+.links a {
+  color: #e766b1;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+button {
+  background-color: #f3e5f5;
+  color: #9c27b0;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;         /* 마우스 올리면 손가락 커서로 바뀜 */
+}
+
+button:hover {
+  background-color: #e766b1;
+  color: white;
+}
