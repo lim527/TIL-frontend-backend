@@ -52,10 +52,28 @@ body {
   display: flex;
   justify-content: center;
   gap: 16px;
+  margin-bottom: 13px;
 }
 
 .links a {
   color: #e766b1;
   text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+button {
+  background-color: #f3e5f5;
+  color: #9c27b0;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 20px;
+  font-size: 14px;
   font-weight: bold;
+  cursor: pointer;         /* 마우스 올리면 손가락 커서로 바뀜 */
+}
+
+button:hover {
+  background-color: #e766b1;
+  color: white;
 }
