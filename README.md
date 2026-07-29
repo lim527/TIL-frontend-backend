@@ -15,3 +15,4 @@
 |0717| js | [코드](./0717-js) | [Notion](https://app.notion.com/p/js-3abe19c90e3380b4b1a7c25ae7ef3e81?source=copy_link) |
 |0718| js DOM | [코드](./0718-js-dom) | [Notion](https://app.notion.com/p/js-dom-3abe19c90e338076ba38e40a26d30904?source=copy_link) |
 |0719| js fetch & api| [코드](./0719-fetch-api) | [Notion](https://app.notion.com/p/js-fetch-api-3ace19c90e3380bc902ac6b089c883dd?source=copy_link) |
+|0721| miniproject-todoapp | [코드](./0720-miniproject-todoapp) | [Notion](https://app.notion.com/p/3ace19c90e3380f9b642c4b775b6b829?source=copy_link) |
