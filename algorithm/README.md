@@ -33,3 +33,7 @@
 | 07/29 | 없는 숫자 더하기 | MissingSum_260729.java | MissingSum_260729.py | 기본 |
 | 07/29 | 콜라츠 추측 | Collatz_260729.java | Collatz_260729.py | 중간 |
 | 07/29 | 최소직사각형 | MinRectangle_260729.java | MinRectangle_260729.py | 도전 |
+| 07/30 | 문자열 내림차순으로 배치하기 | StringDescending_260730.java | StringDescending_260730.py | 완전기초 |
+| 07/30 | 핸드폰 번호 가리기 | PhoneMask_260730.java | PhoneMask_260730.py | 기본 |
+| 07/30 | 폰켓몬 | Pokemon_260730.java | Pokemon_260730.py | 중간 |
+| 07/30 | 소수 찾기 | PrimeNumber_260730.java | PrimeNumber_260730.py | 도전 |
