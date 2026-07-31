@@ -29,3 +29,7 @@
 | 07/28 | 하샤드 수 | Harshad_260728.java | Harshad_260728.py | 기본 |
 | 07/28 | 두 개 뽑아서 더하기 | PairSum_260728.java | PairSum_260728.py | 중간 |
 | 07/28 | 나머지가 1이 되는 수 찾기 | RemainderOne_260728.java | RemainderOne_260728.py | 도전 |
+| 07/29 | 배열 두배 만들기 | ArrayDouble_260729.java | ArrayDouble_260729.py | 완전기초 |
+| 07/29 | 없는 숫자 더하기 | MissingSum_260729.java | MissingSum_260729.py | 기본 |
+| 07/29 | 콜라츠 추측 | Collatz_260729.java | Collatz_260729.py | 중간 |
+| 07/29 | 최소직사각형 | MinRectangle_260729.java | MinRectangle_260729.py | 도전 |
