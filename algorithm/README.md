@@ -37,3 +37,7 @@
 | 07/30 | 핸드폰 번호 가리기 | PhoneMask_260730.java | PhoneMask_260730.py | 기본 |
 | 07/30 | 폰켓몬 | Pokemon_260730.java | Pokemon_260730.py | 중간 |
 | 07/30 | 소수 찾기 | PrimeNumber_260730.java | PrimeNumber_260730.py | 도전 |
+| 07/31 | 제일 작은 수 제거하기 | RemoveMin_260731.java | RemoveMin_260731.py | 완전기초 |
+| 07/31 | 약수의 개수와 덧셈 | DivisorSum_260731.java | DivisorSum_260731.py | 기본 |
+| 07/31 | 구명보트 | LifeBoat_260731.java | LifeBoat_260731.py | 중간 |
+| 07/31 | 타겟 넘버 | TargetNumber_260731.java | TargetNumber_260731.py | 도전 |
