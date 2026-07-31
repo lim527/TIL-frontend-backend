@@ -9,9 +9,9 @@ public class MinRectangle_260729{
         int wMax = 0;
         int hMax = 0;
 
-        for(int i = 0; i < sizes.length; i++) {
-            wMax = Math.max(wMax, Math.max(sizes[i][0], sizes[i][1]));
-            hMax = Math.max(hMax, Math.min(sizes[i][0], sizes[i][1]));
+        for(int[] size : sizes) {
+            wMax = Math.max(wMax, Math.max(size[0], size[1]));
+            hMax = Math.max(hMax, Math.min(size[0], size[1]));
         }
 
         return wMax * hMax;
